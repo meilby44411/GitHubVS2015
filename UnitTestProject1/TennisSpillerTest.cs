@@ -16,6 +16,7 @@ namespace UnitTestProject1 {
             Assert.AreEqual(navn, Frederik.Navn);
             Assert.IsFalse(Frederik.HarBolden);
             //4 Teardown
+            //virk git
         }
         [TestMethod]
         public void TestNyTennisSpillerCarolineIkkeHarBolden() {
